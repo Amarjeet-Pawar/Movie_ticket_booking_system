@@ -2,7 +2,6 @@
 This Movie Ticket Booking System is a console-based application implemented in C language. It facilitates the booking of movie tickets for users. The system allows users to view available movies, select show timings, book tickets, and view booking details.
 
 # Features:
-
 1. User Registration:  Users can register by providing necessary details like name, email, and phone number.
 
 2. Movie Listings:  Users can view the list of available movies along with details like movie name, genre, duration, and show timings.
@@ -16,4 +15,5 @@ This Movie Ticket Booking System is a console-based application implemented in C
 6. View Booking Details:  Users can view their booking history along with details like movie name, show timing, seats booked, and booking ID.
 
 7. Cancellation:  Users can cancel their bookings by providing the booking ID.
+
 
